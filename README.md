@@ -1,4 +1,4 @@
-# Praktikum 02
+README
 ## Membuat virtual environment
 ![image](https://github.com/user-attachments/assets/13b5153b-06c3-4bf3-aa19-a82ca3b3f46e)
 Menggunakan powershell untuk menjalankan perintah dan membuat virtual environment
